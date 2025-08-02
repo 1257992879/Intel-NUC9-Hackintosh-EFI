@@ -125,7 +125,7 @@ After installation, use [OpenCore-Legacy-Patcher (OCLP)](https://github.com/dort
 
 #### Wi-Fi
 
-![截屏2025-08-02 09.12.50](assets/截屏2025-08-02 09.12.50.png)
+![image_2025-08-02_09.12.50](assets/image_2025-08-02_09.12.50.png)
 
 #### Bluetooth
 
@@ -152,11 +152,11 @@ Battery, name, icon shown correctly:
 
 #### iCloud
 
-![截屏2025-08-02 13.04.04](assets/截屏2025-08-02 13.04.04.png)
+![image_2025-08-02_13.04.04](assets/image_2025-08-02_13.04.04.png)
 
 #### Find My
 
-![截屏2025-08-02 13.06.26](assets/截屏2025-08-02 13.06.26.png)
+![image_2025-08-02_13.06.26](assets/image_2025-08-02_13.06.26.png)
 
 #### Wired Sidecar
 
@@ -177,12 +177,12 @@ Battery, name, icon shown correctly:
 
 #### iMessage
 
-![截屏2025-08-02 12.50.05](assets/截屏2025-08-02 12.50.05.png)
+![image_2025-08-02_12.50.05](assets/image_2025-08-02_12.50.05.png)
 
 #### FaceTime
 
-![截屏2025-08-02 12.55.56](assets/截屏2025-08-02 12.55.56.png)  
-![截屏2025-08-02 12.55.41](assets/截屏2025-08-02 12.55.41.png)
+![image_2025-08-02_12.55.56](assets/image_2025-08-02_12.55.56.png)  
+![image_2025-08-02_12.55.41](assets/image_2025-08-02_12.55.41.png)
 
 ---
 
@@ -201,12 +201,12 @@ Battery, name, icon shown correctly:
 
 ### Hackintool
 
-![截屏2025-08-02 09.32.16](assets/截屏2025-08-02 09.32.16.png)  
+![image_2025-08-02_09.32.16](assets/image_2025-08-02_09.32.16.png)  
 ![image-20250802093622437](assets/image-20250802093622437.png)
 
 ### Storage
 
-![截屏2025-08-02 09.38.37](assets/截屏2025-08-02 09.38.37.png)
+![image_2025-08-02_09.38.37](assets/image_2025-08-02_09.38.37.png)
 
 ### Thunderbolt
 
